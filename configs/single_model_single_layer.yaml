@@ -1,0 +1,8 @@
+data_root: "/home/soroush1/projects/def-kohitij/soroush1/neural-cka-comparator/data/muri1320"
+model_name: "resnet101"
+task: "lamem"
+layer_name: "layer3.16.add"
+input_size: 256
+batch_size: 32
+save_result: True
+output_dir: "./results/single_model_single_layer"
